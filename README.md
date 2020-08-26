@@ -30,7 +30,7 @@ API Used: Randomuser.me
 
 Run npm start in terminalto kick off React application
 
-![app screen shot](https://github.com/hamery93/Employee-Directory/blob/master/employeedirectory/app_screenshot.jpg)
+![app screen shot](https://github.com/hamery93/Employee-Directory/blob/master/app_screenshot.jpg)
 
    
 ## License
