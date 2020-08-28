@@ -4,8 +4,8 @@ import "./Jumbo.css";
 function Jumbo() {
   return (
     <div className="jumbotron">
-      <h1> STAFF DIRECTORY </h1>
-      <p>Filter employees by name or search for a single employee</p>
+      <h1> List of Employees </h1>
+      <p>Search Away! </p>
       <hr/>
     </div>
   )
