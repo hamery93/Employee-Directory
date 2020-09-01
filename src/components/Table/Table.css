@@ -4,26 +4,19 @@
     width: 100vw;;
   }
   
-  .table {
-    border-collapse: collapse;
-  }
+ 
   
   thead tr th{
     font-size: 20px;
-    /* margin-bottom: 10px;
-    padding: 10px; */
+   
   }
   
   th, td {
     padding: 8px;
-    border-bottom: 1px solid rgba(12, 104, 140, 1); 
+    border-bottom: px solid rgb(140, 63, 12); 
   }
   
-  tbody tr:hover {
-    background-color: rgba(12, 104, 140, 1);
-    color: #dedede;
-    transition: background-color ease-in-out 0.5s;
-  }
+ 
   
   .pointer {
     margin-left: 5px;
