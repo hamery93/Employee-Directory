@@ -1,4 +1,3 @@
-//search = lookup
 
 import React from 'react';
 

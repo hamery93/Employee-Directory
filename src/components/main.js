@@ -1,4 +1,4 @@
-//data = main
+
 
 import React from "react"
 import Api from "../util/url"

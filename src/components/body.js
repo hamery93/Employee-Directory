@@ -1,4 +1,4 @@
-//body = table
+
 
 import React from "react"
 import Plot from "./plot"

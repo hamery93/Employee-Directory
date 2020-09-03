@@ -1,4 +1,3 @@
-//plot=tablebody
 
 import React from "react"
 
