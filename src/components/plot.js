@@ -17,8 +17,8 @@ return (
                           >
                      </td>
                      <td data-th = "name">
-                          {name.first}
-                          {name.last}
+                          {name.first+ " "}
+                          {" "+ name.last}
                      </td>
                      <td data-th = "phone">
                           {phone}
