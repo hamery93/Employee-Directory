@@ -2,7 +2,7 @@
   "name": "employeedirectory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hamery93.github.io/Employee-Directory/", 
+  "homepage": "https://hamery93.github.io/Employee-Directory/",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^4.2.4",
@@ -17,9 +17,10 @@
     "save-dev": "0.0.1-security"
   },
   "scripts": {
-    "start": "react-scripts start", 
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
